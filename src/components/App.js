@@ -1,5 +1,5 @@
 import RequestForm from "./RequestForm";
-import { MantineProvider, Text } from "@mantine/core";
+import { MantineProvider } from "@mantine/core";
 
 function App() {
 	return (
